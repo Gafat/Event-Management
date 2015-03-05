@@ -1,6 +1,6 @@
-package gafat.wedding.service;
+package gafat.service;
 
-import gafat.wedding.repository.WeddingRepository;
+import gafat.repository.WeddingRepository;
 
 import java.util.ArrayList;
 import java.util.List;

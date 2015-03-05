@@ -1,4 +1,4 @@
-package gafat.wedding.service;
+package gafat.service;
 
 import java.util.List;
 

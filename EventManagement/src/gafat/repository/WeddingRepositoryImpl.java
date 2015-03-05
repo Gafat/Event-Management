@@ -1,4 +1,4 @@
-package gafat.wedding.repository;
+package gafat.repository;
 
 import java.util.ArrayList;
 import java.util.List;
